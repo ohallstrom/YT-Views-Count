@@ -5,4 +5,4 @@ The data is retrieved using requests and BeautifulSoup, and it is treated using 
 
 ![alt text](./generated/pie_per_video.png)
 
-See [visualisation notebook](https://github.com/ohallstrom/YT-Views-Count/blob/main/src/visualise.ipynb) for all visualisations.
+See [visualisation notebook](./src/visualise.ipynb) for all visualisations.
