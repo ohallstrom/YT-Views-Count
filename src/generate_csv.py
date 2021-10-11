@@ -51,5 +51,5 @@ if __name__ == '__main__':
     video_df = videos_df = pd.DataFrame(data = video_data, columns = ['Title', 'Channel', 'Views', 'URL'])
 
     # save dataframe as a csv
-    video_df.to_csv(PATH)
+    video_df.to_csv(PATH, index = False)
 
