@@ -3,4 +3,4 @@ Script that counts and visualises the amount of views of my Indie Band [Billie G
 
 The data is retrieved using requests and BeautifulSoup, and it is treated using pandas.
 
-Not done yet.
+See [visualisation notebook](https://github.com/ohallstrom/YT-Views-Count/blob/main/src/visualise.ipynb) for views visualisation
