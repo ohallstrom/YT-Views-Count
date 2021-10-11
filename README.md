@@ -3,4 +3,4 @@ Script that counts and visualises the amount of views of my Indie Band [Billie G
 
 The data is retrieved using requests and BeautifulSoup, and it is treated using pandas.
 
-Not entirely done yet.
+Not done yet.
