@@ -38,7 +38,7 @@ def get_updated_views(df_col):
 def main():
     '''
     Main function. Created so that visualise.ipynb
-    easily can run this file.
+    can do the equivalent to run this file.
     '''
     # get original video data
     video_data = pd.read_csv(READ_PATH)
